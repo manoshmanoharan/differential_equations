@@ -1,4 +1,3 @@
-# differential_equations
+Differential Equations
 
-## A simple page
-<h1>Hi</h1>
+<h3>Linear Differential Equationss</h3>
